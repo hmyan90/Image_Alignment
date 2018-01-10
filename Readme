@@ -1,0 +1,7 @@
+We implement the SLAM based image alignment by Matlab
+
+Test: run LKTest_Script.m
+
+We extract a small patch of the original image and move it to another location.
+Then let the algorithm to move it to the original location automatically.
+   
